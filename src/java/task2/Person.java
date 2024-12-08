@@ -12,7 +12,7 @@ public class Person {
     private String name;
     private int age;
 
-    // Конструкторы
+
     public Person() {}
 
     public Person(String name, int age) {
@@ -20,7 +20,7 @@ public class Person {
         this.age = age;
     }
 
-    // Геттеры и сеттеры
+
     public Long getId() {
         return id;
     }
