@@ -4,7 +4,6 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        я
         PersonRepository personRepository = new PersonRepository();
 
 
