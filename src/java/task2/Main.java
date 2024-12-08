@@ -1,13 +1,13 @@
-package task2;
+package java.task2;
 
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        PersonRepository personRepository = new PersonRepository();
+        task2.PersonRepository personRepository = new task2.PersonRepository();
 
 
-        Person person1 = new Person("Alice", 30);
+        task2.Person person1 = new task2.Person("Alice", 30);
         Person person2 = new Person("Bob", 25);
         Person person3 = new Person("Charlie", 35);
 

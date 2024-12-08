@@ -1,4 +1,4 @@
-package task2;
+package java.task2;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
